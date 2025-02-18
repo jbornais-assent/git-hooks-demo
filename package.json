@@ -1,0 +1,14 @@
+{
+  "name": "git-hooks-demo",
+  "version": "1.0.0",
+  "description": "Showing how git hooks work",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js",
+    "lint": "node lint.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module"
+}
