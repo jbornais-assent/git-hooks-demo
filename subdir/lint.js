@@ -4,6 +4,7 @@ let shouldFail = false;
 
 
 
+
 if (shouldFail) {
     console.error('Linting failed');
     process.exit(1);
